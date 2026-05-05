@@ -1,2 +1,3 @@
 # Repositori-Exemple
-proba per veure com funciona GitHub
+p
+Proba per veure com funciona GitHub
